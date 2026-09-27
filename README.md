@@ -68,4 +68,4 @@ WANAS is a digital platform designed to make life easier for students living awa
 - Prepare the final case study and presentation.
 - Document the project process and results.
 - ## 📁 Project Files:
-[View WANAS Project Files on Google Drive]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/drive/folders/11ru7IPyziXL0WPWaxdFhTtw_XaExxBle?usp=drive_link))
+[View WANAS Project Files on Google Drive](https://drive.google.com/drive/folders/11ru7IPyziXL0WPWaxdFhTtw_XaExxBle?usp=drive_link)
